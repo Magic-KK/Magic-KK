@@ -6,8 +6,14 @@
 Here are some ideas to get you started:
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on
-          Unity3D android
+## 💻 I’m currently working on 
 
-- 🌱 I’m currently learning
-        🎸 guitar Unity3D
+- Implements an Unity Game
+- guitarl 🎸
+
+## 🧐 I’m currently learning 
+
+- Unity3D
+
+
+## 📫 How to reach me
