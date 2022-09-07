@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 
 ## 🧐 I’m currently learning 
 - Unity3D
+- Godot
+- Kotlin
+- TypeScript
 
 ## 📫 How to reach me
