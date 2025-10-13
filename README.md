@@ -1,23 +1,61 @@
-### Hi there 👋
+<div align="center">
+  
+# 👋 Hi, I'm Magic-KK
 
+### 🚀 Game Developer | 🎮 Unity Enthusiast | 🎸 Guitarist
 
-**Magic-KK/Magic-KK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;Creating+awesome+games!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
-Here are some ideas to get you started:
+</div>
 
-## 💻 I’m currently working on 
+---
 
-- SuperBomb
-- Implements an Unity Game
-- guitarl 🎸
-- EasyArm 
-- EasyArm-NetWork
+## 💼 Current Projects
 
-## 🧐 I’m currently learning 
-- Unity3D
-- Godot
-- Kotlin
-- TypeScript
+```yaml
+SuperBomb: 💣 Explosive gameplay mechanics
+Unity Game: 🎮 Implementing creative game concepts  
+guitarl: 🎸 Music-related project
+EasyArm: 🤖 ARM development toolkit
+EasyArm-NetWork: 🌐 Network extension for EasyArm
+🛠️ Tech Stack
+Game Development
+Unity
+Godot
 
-## 📫 How to reach me
+Languages
+Kotlin
+TypeScript
+C#
+
+📊 GitHub Stats
+<div align="center">
+
+Magic-KK's GitHub stats
+
+Top Langs
+
+</div>
+
+🎯 Currently Learning
+🎮 Unity3D - Advanced game mechanics
+🎨 Godot - Alternative game engine
+📱 Kotlin - Modern Android development
+⚡ TypeScript - Type-safe JavaScript
+📫 Connect with Me
+<div align="center">
+
+[GitHub](https://github.com/Magic-KK)
+[Email](mailto:your-email@example.com)
+
+</div>
+
+<div align="center">
+
+Profile Views
+
+⭐️ From Magic-KK
+
+</div>
+
+```
