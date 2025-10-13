@@ -28,18 +28,20 @@
 - Game Development: Unity, Godot
 - Languages: Kotlin, TypeScript, C#
 
-## 📊 GitHub Stats
+## 🐍 Snake
 
 <div align="center">
 
+<!-- 浅色主题 -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Magic-KK&show_icons=true&theme=transparent"
-  alt="Magic-KK's GitHub stats"
+  src="https://raw.githubusercontent.com/Magic-KK/Magic-KK/output/dist/github-contribution-grid-snake.svg"
+  alt="snake"
 />
 
+<!-- 深色主题 -->
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magic-KK&layout=compact&theme=transparent"
-  alt="Top Langs"
+  src="https://raw.githubusercontent.com/Magic-KK/Magic-KK/output/dist/github-contribution-grid-snake-dark.svg"
+  alt="snake dark"
 />
 
 </div>
@@ -54,7 +56,7 @@
 ## 📫 Connect with Me
 
 - [GitHub](https://github.com/Magic-KK)
-- [Email](mailto:你的邮箱@示例.com)
+- [Email](mailto:jenkskk@gmail.com)
 
 <div align="center">
 
