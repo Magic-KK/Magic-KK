@@ -32,13 +32,6 @@
 
 <div align="center">
 
-<!-- 浅色主题 -->
-<img
-  src="https://raw.githubusercontent.com/Magic-KK/Magic-KK/output/github-contribution-grid-snake.svg"
-  alt="snake"
-/>
-
-<!-- 深色主题 -->
 <img
   src="https://raw.githubusercontent.com/Magic-KK/Magic-KK/output/github-contribution-grid-snake-dark.svg"
   alt="snake dark"
