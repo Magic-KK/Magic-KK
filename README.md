@@ -1,170 +1,87 @@
-<!-- Made with ❤️ by coder-bot (牛开发) -->
+<!-- Made with ❤️ by Magic-KK (Jenks) -->
 
 <div align="center">
 
-# 👋 Hi, I'm Magic-KK
-
-### 🚀 Game Developer | 🎮 Unity Enthusiast | 🎸 Guitarist | 💻 Code Creator
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:2e9ef7&height=230&section=header&text=Magic-KK&fontSize=90&fontColor=2E9EF7&animation=fadeIn&fontAlignY=32&desc=Game%20Developer%20%7C%20Unity%20Enthusiast%20%7C%20Guitarist%20%7C%20Code%20Creator&descSize=18&descAlignY=55&descColor=8B949E" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&height=45&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;Creating+awesome+games!;Building+the+future+one+line+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%8E%AE+Creating+Immersive+Gaming+Experiences;%F0%9F%92%BB+Building+the+Future+One+Line+at+a+Time;%F0%9F%8E%B8+Code+%2B+Music+%3D+%E2%9D%A4%EF%B8%8F;%F0%9F%9A%80+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Magic-KK&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/Magic-KK?style=for-the-badge&color=2E9EF7&labelColor=0D1117&logo=github)](https://github.com/Magic-KK?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Magic-KK?style=for-the-badge&color=F8D866&labelColor=0D1117&logo=github)](https://github.com/Magic-KK?tab=repositories)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+```yaml
+name: Jenks (Magic-KK)
+location: "Wuhan, China 🇨🇳"
+role: Game Developer & Software Engineer
+
+passions:
+  - 🎮 Game Development (Unity, Godot, Unreal)
+  - 🎸 Guitar & Music Creation
+  - 💻 Clean Code & Creative Solutions
+  - 🚀 Exploring Cutting-Edge Technologies
+
+current_focus:
+  - 🕹️ Building awesome games with Unity & Godot
+  - 📚 Creating Godot 4 C# learning resources
+  - 🤖 ARM development with EasyArm framework
+  - 🎵 Composing music in spare time
+
+fun_facts:
+  - 🎯 I debug with guitar breaks
+  - ☕ Powered by coffee and curiosity
+  - 🌙 Most productive after midnight
+
+motto: "Code is poetry, and I'm just trying to write beautiful verses."
+
+🔥 Featured Projects
+<div align="center">
+
+<a href="https://github.com/Magic-KK/SuperBomb">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=SuperBomb&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=F8D866&text_color=8B949E" />
+
+</a>
+
+<a href="https://github.com/Magic-KK/godot4-csharp-learning">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=godot4-csharp-learning&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=F8D866&text_color=8B949E" />
+
+</a>
+
+<a href="https://github.com/Magic-KK/EasyArm">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=EasyArm&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=F8D866&text_color=8B949E" />
+
+</a>
+
+<a href="https://github.com/Magic-KK/EasyArm-NetWork">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=EasyArm-NetWork&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=F8D866&text_color=8B949E" />
+
+</a>
+
+<a href="https://github.com/Magic-KK/countdownview">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=countdownview&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=F8D866&text_color=8B949E" />
+
+</a>
+
+<a href="https://github.com/Magic-KK/LayoutScroll">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=LayoutScroll&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=F8D866&text_color=8B949E" />
+
 </a>
 
 </div>
 
----
-
-## 🎯 About Me
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="200">
-<strong>🎮 Game Dev</strong><br/>
-Passionate about<br/>
-creating immersive<br/>
-gaming experiences
-</td>
-<td align="center" width="200">
-<strong>🎸 Music Lover</strong><br/>
-Guitar enthusiast<br/>
-Music is life<br/>
-🎵
-</td>
-<td align="center" width="200">
-<strong>💻 Code Artist</strong><br/>
-Clean code<br/>
-Creative solutions<br/>
-Innovation first
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-| 🎮 **SuperBomb** | 💣 **Unity Game** | 🎸 **guitarl** |
-|:---:|:---:|:---:|
-| Explosive gameplay | Creative game concepts | Music project |
-| [View →](https://github.com/Magic-KK/SuperBomb) | [View →](https://github.com/Magic-KK/Unity-Game) | [View →](https://github.com/Magic-KK/guitarl) |
-
-| 🤖 **EasyArm** | 🌐 **EasyArm-NetWork** | 📚 **Godot4 C# Learning** |
-|:---:|:---:|:---:|
-| ARM development | Network extension | Complete learning resource |
-| [View →](https://github.com/Magic-KK/EasyArm) | [View →](https://github.com/Magic-KK/EasyArm-NetWork) | [View →](https://github.com/Magic-KK/godot4-csharp-learning) |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Game Development
-
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Unreal Engine](https://img.shields.io/badge/UnrealEngine-%23000000.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-%23000000.svg?style=for-the-badge&logo=Rider&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Magic-KK&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=777A84" alt="Magic-KK's GitHub Stats" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magic-KK&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=777A84" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-**🔥 Contribution Graph**
-
-![Snake Animation](https://raw.githubusercontent.com/Magic-KK/Magic-KK/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🎯 Currently Learning & Building
-
-<div align="center">
-
-| 🚀 Learning | 🛠️ Building | 📖 Exploring |
-|:---:|:---:|:---:|
-| Unity3D Advanced | SuperBomb Game | Game Design Patterns |
-| Godot Engine | Godot4 C# Tutorials | Clean Architecture |
-| Kotlin Multiplatform | EasyArm Framework | Music Theory |
-| TypeScript/React | Personal Projects | AI/ML Basics |
-
-</div>
-
----
-
-## 🏆 Achievements & Badges
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Magic-KK&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
-
-</div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Magic-KK)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Blog](https://img.shields.io/badge/Blog-%232E9EF7.svg?style=for-the-badge&logo=medium&logoColor=white)](https://your-blog.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/magic-kk)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**"Code is poetry, and I'm just trying to write beautiful verses."** ✨
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Magic-KK&label=Profile%20Views&color=2E9EF7&style=for-the-badge&logo=github)
-
-**Last Updated:** March 2026
-
-</div>
-
-<!-- Made with ❤️ by coder-bot (牛开发) -->
