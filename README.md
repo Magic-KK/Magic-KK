@@ -43,3 +43,134 @@ fun_facts:
   - 🌙 Most productive after midnight
 
 motto: "Code is poetry, and I'm just trying to write beautiful verses."
+
+🔥 Featured Projects
+<div align="center">
+
+<a href="https://github.com/Magic-KK/Magic-KK">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=Magic-KK&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=F8D866&text_color=8B949E" />
+
+</a>
+
+<a href="https://github.com/Magic-KK/godot4-csharp-learning">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=godot4-csharp-learning&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=F8D866&text_color=8B949E" />
+
+</a>
+
+<a href="https://github.com/Magic-KK/node-monitor">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=node-monitor&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=F8D866&text_color=8B949E" />
+
+</a>
+
+<a href="https://github.com/Magic-KK/EasyArm">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=EasyArm&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=F8D866&text_color=8B949E" />
+
+</a>
+
+<a href="https://github.com/Magic-KK/EasyArm-NetWork">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=EasyArm-NetWork&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=F8D866&text_color=8B949E" />
+
+</a>
+
+<a href="https://github.com/Magic-KK/countdownview">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=countdownview&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=F8D866&text_color=8B949E" />
+
+</a>
+
+</div>
+
+🛠️ Tech Arsenal
+<div align="center">
+
+💬 Languages
+C#
+Kotlin
+Java
+TypeScript
+JavaScript
+Rust
+Python
+Dart
+GDScript
+C++
+HTML
+
+🎮 Game Engines
+Godot
+Unity
+Unreal
+
+🧰 Frameworks & Tools
+.NET
+Flutter
+Vue.js
+Node.js
+Blazor
+Avalonia
+
+☁️ DevOps & Others
+Git
+GitHub Actions
+Docker
+Linux
+
+</div>
+
+📊 GitHub Stats
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Magic-KK&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=F8D866&text_color=8B949E&ring_color=2E9EF7" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Magic-KK&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=F8D866&currStreakLabel=2E9EF7&sideLabels=8B949E&dates=8B949E&currStreakNum=2E9EF7&sideNums=2E9EF7" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magic-KK&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=8B949E&langs_count=10" />
+
+</div>
+
+🏆 GitHub Trophies
+<div align="center">
+
+Trophies
+
+</div>
+
+🐍 Contribution Snake
+<div align="center">
+
+Snake animation
+
+</div>
+
+📈 Activity Graph
+<div align="center">
+
+[Activity Graph](https://github.com/Magic-KK)
+
+</div>
+
+🎵 Vibes
+<div align="center">
+
+"First, solve the problem. Then, write the code." — John Johnson
+
+🎮 Gaming   |   🎸 Guitar   |   ☕ Coffee   |   💻 Coding   |   🎵 Music
+
+</div>
+
+<div align="center">
+
+📬 Let's Connect!
+[Email](mailto:jenkskk@gmail.com)
+[GitHub](https://github.com/Magic-KK)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:2e9ef7&height=120&section=footer" />
+
+```
