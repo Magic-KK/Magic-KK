@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,45:202A44,100:00D1FF&height=170&section=header&text=Magic-KK&fontSize=68&fontColor=F8FAFC&fontAlignY=43&desc=GAME%20DEV%20CONSOLE%20%2F%2F%20TOOLS%20%2F%2F%20MUSIC%20%2F%2F%20C%23%20%2B%20GODOT&descSize=16&descAlignY=70&descColor=9DECF9" alt="Magic-KK banner" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00D1FF&center=true&vCenter=true&width=760&height=44&lines=%3E+booting+creative+toolchain...;%3E+building+games+and+developer+tools...;%3E+shipping+small%2C+learning+fast%2C+playing+guitar..." alt="Console typing animation" />
-</a>
+<img width="100%" src="./assets/readme-neon-header.svg" alt="Magic-KK pixel neon header" />
 
 <br/>
 
@@ -21,31 +17,11 @@
 
 ## SYSTEM PROFILE
 
-```text
-player      Jenks / Magic-KK
-spawn       Wuhan, China
-class       Game Developer + Software Engineer
-main quest  Build playable systems, useful tools, and learning resources
-side quest  Guitar, music, late-night experiments
-stack mood  C# / Godot / Unity / Kotlin / TypeScript / ARM
-```
+<div align="center">
 
-<table>
-  <tr>
-    <td width="34%">
-      <h3>01 / GAMEPLAY</h3>
-      <p>Game mechanics, editor workflows, engine experiments, and player-facing polish.</p>
-    </td>
-    <td width="33%">
-      <h3>02 / TOOLING</h3>
-      <p>Small utilities, automation, monitor panels, and practical software that removes repeated work.</p>
-    </td>
-    <td width="33%">
-      <h3>03 / LEARNING</h3>
-      <p>Godot 4 C# notes, ARM development practice, and steady experiments across the stack.</p>
-    </td>
-  </tr>
-</table>
+<img width="100%" src="./assets/readme-neon-profile.svg" alt="Magic-KK system profile pixel neon panel" />
+
+</div>
 
 ---
 

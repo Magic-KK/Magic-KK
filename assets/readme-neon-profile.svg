@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Magic-KK system profile</title>
+  <desc id="desc">A pixel neon system profile panel for Magic-KK.</desc>
+  <defs>
+    <linearGradient id="panelBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080B18"/>
+      <stop offset="0.58" stop-color="#0E1730"/>
+      <stop offset="1" stop-color="#061320"/>
+    </linearGradient>
+    <linearGradient id="hotline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="0.5" stop-color="#FF4FD8"/>
+      <stop offset="1" stop-color="#FACC15"/>
+    </linearGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <rect x="8" y="8" width="2" height="2" fill="#214066" opacity="0.75"/>
+    </pattern>
+    <filter id="cyanGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0  0 0 0 0 0.83  0 0 0 0 1  0 0 0 0.9 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="pinkGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 1  0 0 0 0 0.31  0 0 0 0 0.85  0 0 0 0.78 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="440" fill="url(#panelBg)"/>
+  <rect width="1200" height="440" fill="url(#dots)"/>
+
+  <g shape-rendering="crispEdges">
+    <rect x="22" y="22" width="1156" height="396" fill="none" stroke="#00E5FF" stroke-width="4" filter="url(#cyanGlow)"/>
+    <rect x="36" y="36" width="1128" height="368" fill="none" stroke="#FF4FD8" stroke-width="2" opacity="0.62"/>
+    <rect x="54" y="54" width="1092" height="58" fill="#0B1020" stroke="#1E3A5F" stroke-width="2"/>
+    <rect x="54" y="382" width="1092" height="10" fill="url(#hotline)"/>
+    <rect x="22" y="22" width="54" height="10" fill="#FACC15"/>
+    <rect x="1124" y="408" width="54" height="10" fill="#FACC15"/>
+  </g>
+
+  <g font-family="'Courier New', Consolas, monospace" font-weight="800">
+    <text x="82" y="92" font-size="30" fill="#F8FAFC">SYSTEM PROFILE</text>
+    <text x="409" y="92" font-size="22" fill="#00E5FF" filter="url(#cyanGlow)">ONLINE</text>
+    <rect x="505" y="72" width="13" height="13" fill="#00E5FF">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <text x="954" y="92" font-size="18" fill="#9DECF9">BUILD ID: MK-PIXEL-NEON</text>
+  </g>
+
+  <g font-family="'Courier New', Consolas, monospace" font-size="22" font-weight="700">
+    <text x="96" y="150" fill="#00E5FF">PLAYER</text>
+    <text x="260" y="150" fill="#F8FAFC">JENKS / MAGIC-KK</text>
+    <text x="96" y="186" fill="#00E5FF">SPAWN</text>
+    <text x="260" y="186" fill="#F8FAFC">WUHAN, CHINA</text>
+    <text x="96" y="222" fill="#00E5FF">CLASS</text>
+    <text x="260" y="222" fill="#F8FAFC">GAME DEVELOPER + SOFTWARE ENGINEER</text>
+    <text x="96" y="258" fill="#FF4FD8" filter="url(#pinkGlow)">MAIN QUEST</text>
+    <text x="260" y="258" fill="#F8FAFC">PLAYABLE SYSTEMS / USEFUL TOOLS / LEARNING RESOURCES</text>
+    <text x="96" y="294" fill="#FF4FD8" filter="url(#pinkGlow)">SIDE QUEST</text>
+    <text x="260" y="294" fill="#F8FAFC">GUITAR / MUSIC / LATE-NIGHT EXPERIMENTS</text>
+    <text x="96" y="330" fill="#FACC15">STACK</text>
+    <text x="260" y="330" fill="#F8FAFC">C# / GODOT / UNITY / KOTLIN / TYPESCRIPT / ARM</text>
+  </g>
+
+  <g font-family="'Courier New', Consolas, monospace" font-weight="800" shape-rendering="crispEdges">
+    <rect x="740" y="132" width="350" height="62" fill="#0B1020" stroke="#00E5FF" stroke-width="2"/>
+    <rect x="740" y="214" width="350" height="62" fill="#0B1020" stroke="#FF4FD8" stroke-width="2"/>
+    <rect x="740" y="296" width="350" height="62" fill="#0B1020" stroke="#FACC15" stroke-width="2"/>
+    <text x="766" y="170" font-size="22" fill="#00E5FF">01 / GAMEPLAY</text>
+    <text x="766" y="252" font-size="22" fill="#FF4FD8">02 / TOOLING</text>
+    <text x="766" y="334" font-size="22" fill="#FACC15">03 / LEARNING</text>
+    <rect x="1036" y="154" width="28" height="14" fill="#00E5FF"/>
+    <rect x="1036" y="236" width="28" height="14" fill="#FF4FD8"/>
+    <rect x="1036" y="318" width="28" height="14" fill="#FACC15"/>
+  </g>
+</svg>
