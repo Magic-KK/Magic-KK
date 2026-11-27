@@ -1,148 +1,35 @@
-<!-- Magic-KK profile README -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img width="100%" src="./assets/header-light.svg" alt="Jenks · Magic-KK — 在武汉写游戏，也给自己写工具">
+</picture>
 
-<div align="center">
+<br>
 
-<img width="100%" src="./assets/readme-neon-header.svg" alt="Magic-KK pixel neon header" />
+我是 Jenks，2016 年开始用 GitHub。前几年写 Android，开源过几个小控件；现在主要用 Godot 4 + C# 做一款多人在线的 2D 游戏。
 
-<br/>
+### 现在在做
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Magic-KK&style=flat-square&color=00D1FF&label=visitors)](https://github.com/Magic-KK)
-[![Followers](https://img.shields.io/github/followers/Magic-KK?style=flat-square&color=FF4FD8&labelColor=101827&logo=github&logoColor=white)](https://github.com/Magic-KK?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Magic-KK?style=flat-square&color=FACC15&labelColor=101827&logo=github&logoColor=white)](https://github.com/Magic-KK?tab=repositories)
-[![Mail](https://img.shields.io/badge/mail-jenkskk%40gmail.com-00D1FF?style=flat-square&labelColor=101827&logo=gmail&logoColor=white)](mailto:jenkskk@gmail.com)
+- **一款多人在线 2D 游戏** — 客户端 Godot 4.4（自己改过的 Mono 构建）+ C#，服务端 .NET，KCP 联机，MySQL / Redis
+- **配套工具** — 地图编辑器（Avalonia）、专用关卡编辑器（TypeScript）、运营后台网页
+- **自己用的桌面小工具** — Tauri + React 的本地笔记、桌面悬浮便签、Rust 写的本地智能代理
 
-</div>
+### 开源
 
----
-
-## SYSTEM PROFILE
-
-<div align="center">
-
-<img width="100%" src="./assets/readme-neon-profile.svg" alt="Magic-KK system profile pixel neon panel" />
-
-</div>
-
----
-
-## ACTIVE QUESTS
-
-```diff
-+ Create Godot 4 C# learning material that is easy to follow
-+ Build cleaner game/editor workflows with Unity and Godot
-+ Explore EasyArm and ARM-related development
-+ Keep turning rough ideas into shipped repos
-```
-
-<div align="center">
-
-| Focus | Status | Energy |
+| 项目 | 说明 | 语言 |
 | :-- | :-- | :-- |
-| Game development | `active` | █████████░ |
-| Godot / C# | `active` | ████████░░ |
-| Tool building | `active` | ████████░░ |
-| Music creation | `side quest` | ██████░░░░ |
+| [LayoutScroll](https://github.com/Magic-KK/LayoutScroll) | 仿淘宝的上下跑马灯，自动垂直滚动 | Java · ★ 18 |
+| [countdownview](https://github.com/Magic-KK/countdownview) | Android 验证码倒计时按钮 | Java · ★ 6 |
+| [godot4-csharp-learning](https://github.com/Magic-KK/godot4-csharp-learning) | Godot 4 C# 学习网站，从入门到实战 | HTML |
+| [easyarm](https://github.com/Magic-KK/easyarm) | Android 快速开发框架：MVP、AndroidX、常用封装 | Java |
+| [node-monitor](https://github.com/Magic-KK/node-monitor) | 团队节点在线状态监控面板 | Node.js |
 
-</div>
+### 常用
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cdotnet%2Cgodot%2Cjava%2Ckotlin%2Candroidstudio%2Cts%2Creact%2Ctauri%2Crust%2Cpython%2Cmysql%2Credis%2Cdocker&theme=dark&perline=14">
+  <img src="https://skillicons.dev/icons?i=cs%2Cdotnet%2Cgodot%2Cjava%2Ckotlin%2Candroidstudio%2Cts%2Creact%2Ctauri%2Crust%2Cpython%2Cmysql%2Credis%2Cdocker&theme=light&perline=14" alt="C#, .NET, Godot, Java, Kotlin, Android, TypeScript, React, Tauri, Rust, Python, MySQL, Redis, Docker" height="40">
+</picture>
 
-## LOADOUT
+<br><br>
 
-<div align="center">
-
-### Core Languages
-
-![C#](https://img.shields.io/badge/C%23-181C2F?style=for-the-badge&logo=csharp&logoColor=00D1FF)
-![Kotlin](https://img.shields.io/badge/Kotlin-181C2F?style=for-the-badge&logo=kotlin&logoColor=FF4FD8)
-![Java](https://img.shields.io/badge/Java-181C2F?style=for-the-badge&logo=openjdk&logoColor=FACC15)
-![TypeScript](https://img.shields.io/badge/TypeScript-181C2F?style=for-the-badge&logo=typescript&logoColor=00D1FF)
-![Rust](https://img.shields.io/badge/Rust-181C2F?style=for-the-badge&logo=rust&logoColor=F8FAFC)
-![Python](https://img.shields.io/badge/Python-181C2F?style=for-the-badge&logo=python&logoColor=FACC15)
-
-### Engines & UI
-
-![Godot](https://img.shields.io/badge/Godot-101827?style=for-the-badge&logo=godotengine&logoColor=00D1FF)
-![Unity](https://img.shields.io/badge/Unity-101827?style=for-the-badge&logo=unity&logoColor=F8FAFC)
-![Unreal](https://img.shields.io/badge/Unreal-101827?style=for-the-badge&logo=unrealengine&logoColor=F8FAFC)
-![Avalonia](https://img.shields.io/badge/Avalonia-101827?style=for-the-badge&logo=dotnet&logoColor=FF4FD8)
-![Flutter](https://img.shields.io/badge/Flutter-101827?style=for-the-badge&logo=flutter&logoColor=00D1FF)
-![Vue.js](https://img.shields.io/badge/Vue.js-101827?style=for-the-badge&logo=vuedotjs&logoColor=42B883)
-
-### Workflow
-
-![.NET](https://img.shields.io/badge/.NET-0B1020?style=for-the-badge&logo=dotnet&logoColor=FF4FD8)
-![Node.js](https://img.shields.io/badge/Node.js-0B1020?style=for-the-badge&logo=nodedotjs&logoColor=42B883)
-![Docker](https://img.shields.io/badge/Docker-0B1020?style=for-the-badge&logo=docker&logoColor=00D1FF)
-![GitHub Actions](https://img.shields.io/badge/Actions-0B1020?style=for-the-badge&logo=githubactions&logoColor=00D1FF)
-![Linux](https://img.shields.io/badge/Linux-0B1020?style=for-the-badge&logo=linux&logoColor=FACC15)
-
-</div>
-
----
-
-## PROJECT MAP
-
-<div align="center">
-
-<a href="https://github.com/Magic-KK/godot4-csharp-learning">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=godot4-csharp-learning&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00D1FF&icon_color=FACC15&text_color=CBD5E1" alt="godot4-csharp-learning" />
-</a>
-<a href="https://github.com/Magic-KK/EasyArm">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=EasyArm&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00D1FF&icon_color=FACC15&text_color=CBD5E1" alt="EasyArm" />
-</a>
-
-<a href="https://github.com/Magic-KK/node-monitor">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=node-monitor&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00D1FF&icon_color=FACC15&text_color=CBD5E1" alt="node-monitor" />
-</a>
-<a href="https://github.com/Magic-KK/EasyArm-NetWork">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=EasyArm-NetWork&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00D1FF&icon_color=FACC15&text_color=CBD5E1" alt="EasyArm-NetWork" />
-</a>
-
-<a href="https://github.com/Magic-KK/countdownview">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=countdownview&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00D1FF&icon_color=FACC15&text_color=CBD5E1" alt="countdownview" />
-</a>
-<a href="https://github.com/Magic-KK/Magic-KK">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Magic-KK&repo=Magic-KK&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00D1FF&icon_color=FACC15&text_color=CBD5E1" alt="Magic-KK profile repository" />
-</a>
-
-</div>
-
----
-
-## TELEMETRY
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Magic-KK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00D1FF&icon_color=FACC15&text_color=CBD5E1&ring_color=FF4FD8" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Magic-KK&theme=tokyonight&hide_border=true&background=0B1020&ring=FF4FD8&fire=FACC15&currStreakLabel=00D1FF&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak" />
-
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magic-KK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00D1FF&text_color=CBD5E1&langs_count=10" alt="Top languages" />
-
-</div>
-
----
-
-## ACHIEVEMENTS
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Magic-KK&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Magic-KK&theme=tokyo-night&hide_border=true&bg_color=0B1020&color=00D1FF&line=FF4FD8&point=FACC15&area=true&area_color=00D1FF)](https://github.com/Magic-KK)
-
-</div>
-
----
-
-<div align="center">
-
-```text
-save point reached
-coffee: ready    guitar: tuned    editor: open
-```
-
-[![GitHub](https://img.shields.io/badge/GitHub-Magic--KK-101827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Magic-KK)
-[![Email](https://img.shields.io/badge/Email-jenkskk%40gmail.com-00D1FF?style=for-the-badge&labelColor=101827&logo=gmail&logoColor=white)](mailto:jenkskk@gmail.com)
-
-</div>
+联系我：[jenkskk@gmail.com](mailto:jenkskk@gmail.com)
